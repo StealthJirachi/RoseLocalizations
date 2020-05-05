@@ -7,5 +7,6 @@
 
   "LOW_POWER_MODE_IS_ON" = "Low Power Mode Is On";
   "DND_IS_ACTIVE" = "DND Is On";
+  "RINGER_IS_SILENT" = "Ringer Is Silent";
 
 }
