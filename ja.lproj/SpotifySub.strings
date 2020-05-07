@@ -3,7 +3,7 @@
   "ENABLE_SPOTIFY_SUPPORT" = "Spotifyの設定を有効化";
   "SPOTIFY_SUPPORT" = "有効化";
 
-  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
+  "HAPTIC_FEEDBACK_WHEN" = "Hapticを以下の時にフィードバックします！";
 
   "RESUMING_OR_PAUSING_SONG" = "曲を再生/一時停止した時";
   "MINI_PLAYER_RESUMING_OR_PAUSING_SONG" = "ミニプレイヤーで曲を再生/一時停止した時";
@@ -16,6 +16,7 @@
   "TAPPING_LIKE_BUTTON" = "お気に入りボタンを押した時";
   "TAPPING_DEVICES_BUTTON" = "デバイスボタンを押した時";
   "TAPPING_SONG_LABEL" = "曲のラベルをタップした時";
+　"TAPPING_PLAYLIST_BUTTONS" = "プレイリストボタンを押した時";
 
   "CUSTOM_STRENGTH_SETTINGS" = "強さのカスタム設定";
 
@@ -30,6 +31,7 @@
   "CUSTOM_LIKE_BUTTON_STRENGTH" = "お気に入りボタンを押した時の強さ";
   "CUSTOM_DEVICES_BUTTON_STRENGTH" = "デバイスボタンを押した時の強さ";
   "CUSTOM_LABEL_STRENGTH" = "曲のラベルをタップした時の強さ";
+　"CUSTOM_PLAYLIST_BUTTONS_STRENGTH" = "プレイリストボタンを押した時の強さ";
 
   "NONE" = "無し";
   "LIGHT_HAPTIC_ENGINE" = "軽: Haptic Engine";
