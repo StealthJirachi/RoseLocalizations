@@ -3,7 +3,7 @@
   "ENABLE_INSTAGRAM_SUPPORT" = "インスタグラムの設定を有効化";
   "INSTAGRAM_SUPPORT" = "有効化";
 
-  "HAPTIC_FEEDBACK_WHEN" = "Hapticを以下の時にフィードバックします！";
+  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
 
   "TAPPING_LIKE_BUTTON" = "いいね！を押した時";
   "DOUBLE_TAPPING_TO_LIKE" = "いいね！をダブルタップした時";
