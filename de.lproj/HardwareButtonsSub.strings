@@ -1,6 +1,6 @@
 {
 
-  "ENABLE_HARDWARE_BUTTONS_SECTION" = "Abschnitt „Hardwareknöpfe“ Aktivieren";
+  "ENABLE_HARDWARE_BUTTONS_SECTION" = "Abschnitt „Hardwareknöpfe“";
   "ENABLE_SECTION" = "Abschnitt aktivieren";
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
