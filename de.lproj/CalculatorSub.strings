@@ -1,7 +1,7 @@
 {
 
-  "ENABLE_CALCULATOR_SUPPORT" = "Unterstützung für den Taschenrechner aktivieren";
-  "CALCULATOR_SUPPORT" = "Taschenrechner Unterstützung";
+  "ENABLE_CALCULATOR_SUPPORT" = "Unterstützung für den Taschenrechner";
+  "CALCULATOR_SUPPORT" = "Taschenrechner-Unterstützung aktivieren";
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
 
