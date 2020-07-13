@@ -1,6 +1,6 @@
 {
 
-  "ENABLE_APOLLO_SUPPORT" = "Unterstützung für Apollo aktivieren";
+  "ENABLE_APOLLO_SUPPORT" = "Unterstützung für Apollo";
   "APOLLO_SUPPORT" = "Unterstützung für Apollo";
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
