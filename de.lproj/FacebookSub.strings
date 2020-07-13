@@ -1,7 +1,7 @@
 {
 
-  "ENABLE_FACEBOOK_SUPPORT" = "Unterstützung Facebook für aktivieren";
-  "FACEBOOK_SUPPORT" = "Unterstützung für Apollo";
+  "ENABLE_FACEBOOK_SUPPORT" = "Unterstützung für Facebook";
+  "FACEBOOK_SUPPORT" = "Unterstützung für Facebook aktivieren";
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
 
