@@ -1,7 +1,7 @@
 {
 
-  "ENABLE_EXCEPTIONS_SECTION" = "Abschnitt „Ausnahmen“ aktivieren";
-  "ENABLE_SECTION" = "Aktiviere Abschnitt";
+  "ENABLE_EXCEPTIONS_SECTION" = "Abschnitt „Ausnahmen“";
+  "ENABLE_SECTION" = "Abschnitt aktivieren";
 
   "DISABLE_FEEDBACK_WHEN" = "Deaktiviere Feedback wenn...";
 
