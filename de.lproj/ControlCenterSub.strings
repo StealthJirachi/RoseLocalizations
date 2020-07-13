@@ -21,7 +21,7 @@
   "HEAVY_HAPTIC_ENGINE" = "Stark: Haptic Engine";
   "LIGHT_TAPTIC_ENGINE" = "Leicht: Taptic Engine";
   "MEDIUM_TAPTIC_ENGINE" = "Mittel: Taptic Engine";
-  "STRONG_TAPTIC_ENGINE" = "Start: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Stark: Taptic Engine";
   "SOFT_TAPTIC_ENGINE" = "Sanft: Taptic Engine";
   "RIGID_TAPTIC_ENGINE" = "Starr: Taptic Engine";
 
