@@ -1,7 +1,7 @@
 {
 
   "ENABLE_APOLLO_SUPPORT" = "Unterstützung für Apollo";
-  "APOLLO_SUPPORT" = "Unterstützung für Apollo";
+  "APOLLO_SUPPORT" = "Unterstützung für Apollo aktivieren";
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
 
@@ -13,7 +13,7 @@
   "CUSTOM_STRENGTH_SETTINGS" = "Eigene Stärkeeinstellungen";
 
   "CUSTOM_JUMP_BAR_STRENGTH" = "Springleiste";
-  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Shwebende Knöpfe";
+  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Schwebende Knöpfe";
   "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Weitere Elemente";
   "CUSTOM_UIBUTTON_STRENGTH" = "UIButton";
 
