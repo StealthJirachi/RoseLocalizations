@@ -1,6 +1,6 @@
 {
 
-  "ENABLE_CONTROL_CENTER_SECTION" = "Aktiviere Kontrollzentrumabschnitt";
+  "ENABLE_CONTROL_CENTER_SECTION" = "Abschnitt „Kontrollzentrum“";
   "ENABLE_SECTION" = "Abschnitt aktivieren";
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
