@@ -1,6 +1,6 @@
 {
 
-  "ENABLE_ADDITIONALS_SECTION" = "Optionalen Abschnitt aktivieren";
+  "ENABLE_ADDITIONALS_SECTION" = "Abschnitt „Optional“ aktivieren";
   "ENABLE_SECTION" = "Abschnitt aktivieren";
 
   "HAPTIC_ANIMATIONS" = "Haptische Animationen - Nur mit Taptic Engine und iOS 13";
